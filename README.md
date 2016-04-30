@@ -1,2 +1,1 @@
-# hello-world
-Hello World
+README for a temporary branch created to learn Git
